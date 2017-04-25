@@ -1,5 +1,5 @@
 
 public enum DIR {
 
-	L,U,D,R
+	L,U,D,R;
 }
